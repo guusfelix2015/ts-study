@@ -1,0 +1,13 @@
+"use strict";
+let myName = 'Max';
+let meaningOfLife;
+let isLoading;
+let album;
+myName = 'Gustavo';
+meaningOfLife = 42;
+isLoading = true;
+album = 'Van Halen';
+const sum = (a, b) => a + b;
+let postId;
+let isActived;
+let re = /\w+/g;
